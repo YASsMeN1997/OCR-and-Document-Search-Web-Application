@@ -18,5 +18,5 @@
  - The ColPali-Byaldi-Huggingface Transformers model processes the image to extract text in both languages.
  - View the extracted text displayed on the interface.
  - Utilize the keyword search functionality to search for specific keywords within the extracted text.
-# Demo:
-
+# Demo Link:
+ - https://drive.google.com/file/d/1WTBwLMgm-7kjjZbVLds6O-ox14ZfrxYW/view?usp=drivesdk
