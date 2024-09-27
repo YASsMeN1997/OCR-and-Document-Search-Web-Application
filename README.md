@@ -1,4 +1,4 @@
-# OCR-and-Document-Search-Web-Application
+# OCR && Document Search Web Application
  - The "OCR Web Application with Keyword Search" prototype leverages the advanced capabilities of ColPali, Byaldi, and Huggingface Transformers for Qwen2-VL to perform Optical Character Recognition (OCR) on uploaded images containing both Hindi and English text. This web-based tool, developed using Gradio, offers a user-friendly interface for image upload, text extraction, and keyword search functionalities.
 
 # Key Features:
