@@ -1,0 +1,3 @@
+git+https://github.com/huggingface/transformers
+byaldi
+qwen_vl_utils
